@@ -74,7 +74,7 @@ Wazuh-Shodan-Integration/
 Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/Wazuh-Shodan-Integration.git
+git clone https://github.com/spark077-code/Wazuh-Shodan-Integration.git
 ```
 
 Move into the project
